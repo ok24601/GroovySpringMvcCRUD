@@ -1,0 +1,4 @@
+CREATE TABLE cat (
+  age INTEGER PRIMARY KEY,
+  name VARCHAR(30)
+);
